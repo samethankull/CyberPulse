@@ -153,4 +153,4 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Ayrıntılar için `LICENSE` 
 Katkılar memnuniyetle karşılanır! İyileştirme önerileri veya hata bildirimleri için lütfen projenin deposunda bir pull request gönderin veya bir sorun (issue) açın.
 
 ## İletişim
-Sorular veya geri bildirim için proje sorumlusuyla [e-posta adresiniz@example.com] üzerinden iletişime geçin veya depoda bir sorun açın.
+Sorular veya geri bildirim için proje sorumlusuyla [samethankull@gmail.com] üzerinden iletişime geçin veya depoda bir sorun açın.
