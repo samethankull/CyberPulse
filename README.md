@@ -1,8 +1,6 @@
 # CyberPulse
 
 
-# CyberPulse Web Tarayıcı Aracı
-
 ## Genel Bakış
 **CyberPulse**, bir hedef web sitesinin güvenlik durumunu, kullanılan teknolojileri ve olası güvenlik açıklarını analiz etmek için tasarlanmış Python tabanlı bir güvenlik tarama aracıdır. Web Uygulama Güvenlik Duvarları (WAF), teknoloji yığını, HTTP başlıkları, güvenlik başlıkları, alt alan adları (subdomain) ve SSL/TLS sertifika detayları gibi çeşitli özellikleri tarayarak kapsamlı bilgiler sağlar. Araç, asenkron programlama ile verimli tarama yapar ve sonuçları `rich` kütüphanesi ile görsel olarak çekici bir şekilde sunar. Ayrıca, sonuçlar JSON formatında bir dosyaya kaydedilir ve ileride kullanılmak üzere saklanabilir.
 
