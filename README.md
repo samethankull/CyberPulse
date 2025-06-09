@@ -67,7 +67,7 @@ CyberPulse’ü çalıştırmak için aşağıdaki Python kütüphaneleri ve har
 ## Kullanım
 1. Script’i Python ile çalıştırın:
    ```bash
-   python web_scanner.py
+   python CyberPulse.py
    ```
 2. İstenildiğinde hedef URL’yi girin (ör. `https://example.com` veya `example.com`).
 3. Araç, taramaları gerçekleştirir ve sonuçları konsolda biçimlendirilmiş tablolar ve panellerle gösterir.
@@ -76,7 +76,7 @@ CyberPulse’ü çalıştırmak için aşağıdaki Python kütüphaneleri ve har
 
 ### Örnek
 ```bash
-$ python web_scanner.py
+$ python CyberPulse.py
 Hedef URL'yi girin (örneğin, https://example.com): https://example.com
 ```
 
