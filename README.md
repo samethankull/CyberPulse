@@ -32,7 +32,7 @@ CyberPulse, Python'un `asyncio` ve `aiohttp` kütüphanelerini kullanarak HTTP i
 5. Tüm sonuçlar, `web_scanner_output.json` dosyasına JSON formatında kaydedilir.
 
 ## Gereksinimler
-CyberPulse’ü çalıştırmak için aşağıdaki Python kütüphaneleri ve harici araçlar gereklidir:
+CyberPulse’u çalıştırmak için aşağıdaki Python kütüphaneleri ve harici araçlar gereklidir:
 - **Python Kütüphaneleri**:
   - `aiohttp`: Asenkron HTTP istekleri için.
   - `builtwith`: Teknoloji yığını tespiti için.
