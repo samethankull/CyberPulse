@@ -62,7 +62,7 @@ CyberPulse’u çalıştırmak için aşağıdaki Python kütüphaneleri ve hari
    ```
    Alternatif olarak, yukarıdaki kütüphaneleri tek tek yükleyin.
 3. `wafw00f` komut satırı aracının yüklü ve sistem PATH’inde erişilebilir olduğundan emin olun.
-4. Script’i `web_scanner.py` olarak kaydedin.
+4. Script’i `CyberPulse.py` olarak kaydedin.
 
 ## Kullanım
 1. Script’i Python ile çalıştırın:
